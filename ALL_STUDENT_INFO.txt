@@ -9,9 +9,9 @@ Student B:
     Major(s): feline studies
 
 Student C:
-    Name: [put your name here]
-    Year: [put your year of graduation here]
-    Major(s): [put your list of majors here]
+    Name: snowbs
+    Year: 2025
+    Major(s): snoozing
 
 Student D:
     Name: frost

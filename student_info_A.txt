@@ -1,15 +1,15 @@
-Name: 
+Name: barry lawson
 
-Academic Year: 
+Academic Year: 2024
 
-Hometown [optional]: 
+Hometown [optional]: coeburn, va
 
-Major(s): 
+Major(s): computer science
 
-+1(s): 
++1(s): music
 
-List of current courses:
+List of current courses: dcs211, dcs109
 
-Extracurricular interests:
+Extracurricular interests: playing music, hiking, kayaking
 
-One fun fact about you:
+One fun fact about you: first-gen college student

@@ -14,6 +14,6 @@ Student C:
     Major(s): [put your list of majors here]
 
 Student D:
-    Name: [put your name here]
-    Year: [put your year of graduation here]
-    Major(s): [put your list of majors here]
+    Name: frost
+    Year: 2026
+    Major(s): idiocracy

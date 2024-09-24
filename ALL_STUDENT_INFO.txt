@@ -17,3 +17,8 @@ Student D:
     Name: frost
     Year: 2026
     Major(s): idiocracy
+
+Student E:
+    Name: lilly
+    Year: 2021
+    Major(s): sweetness

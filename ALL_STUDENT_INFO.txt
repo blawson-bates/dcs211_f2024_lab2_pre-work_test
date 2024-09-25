@@ -6,11 +6,11 @@ Student A:
     Favorite Musician: dad
 
 Student B:
-    Name:              snowball
-    Academic Year:     2024
-    Major(s):          feline studies
-    Favorite Food:     turkey
-    Favorite Musician: dad
+    Name:              snowbs
+    Academic Year:     2025
+    Major(s):          dentistry
+    Favorite Food:     anything!
+    Favorite Musician: cat stevens
 
 Student C:
     Name:              [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]

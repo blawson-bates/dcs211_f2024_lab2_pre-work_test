@@ -1,8 +1,8 @@
-Name: frost
+Name: lilly
 
 Academic Year: 
 
-Hometown:
+Hometown [optional]: 
 
 Major(s): 
 

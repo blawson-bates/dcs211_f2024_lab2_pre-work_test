@@ -1,16 +1,16 @@
 Student A:
-    Name:              [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
-    Academic Year:     [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
-    Major(s):          [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
-    Favorite Food:     [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
-    Favorite Musician: [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
+    Name:              frankie
+    Academic Year:     2026
+    Major(s):          bowtie tying
+    Favorite Food:     mice
+    Favorite Musician: kent
 
 Student B:
-    Name:              [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
-    Academic Year:     [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
-    Major(s):          [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
-    Favorite Food:     [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
-    Favorite Musician: [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
+    Name:              snowbs
+    Academic Year:     2025
+    Major(s):          dentistry
+    Favorite Food:     anything!
+    Favorite Musician: cat stevens
 
 Student C:
     Name:              [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]

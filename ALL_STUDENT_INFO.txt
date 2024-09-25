@@ -1,19 +1,27 @@
 Student A:
-    Name: barry lawson
-    Year: 2024
-    Major(s): computer science
+    Name:              [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
+    Academic Year:     [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
+    Major(s):          [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
+    Favorite Food:     [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
+    Favorite Musician: [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
 
 Student B:
-    Name: [put your name here]
-    Year: [put your year of graduation here]
-    Major(s): [put your list of majors here]
+    Name:              [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
+    Academic Year:     [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
+    Major(s):          [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
+    Favorite Food:     [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
+    Favorite Musician: [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
 
 Student C:
-    Name: [put your name here]
-    Year: [put your year of graduation here]
-    Major(s): [put your list of majors here]
+    Name:              [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
+    Academic Year:     [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
+    Major(s):          [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
+    Favorite Food:     [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
+    Favorite Musician: [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
 
 Student D:
-    Name: [put your name here]
-    Year: [put your year of graduation here]
-    Major(s): [put your list of majors here]
+    Name:              [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
+    Academic Year:     [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
+    Major(s):          [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
+    Favorite Food:     [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]
+    Favorite Musician: [YOUR ANSWER OR BEST GUESS ABOUT TEAMMATE]

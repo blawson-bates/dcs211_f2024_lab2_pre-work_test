@@ -2,7 +2,7 @@ Name:
 
 Academic Year: 
 
-Hometown [optional]: 
+Hometown:
 
 Major(s): 
 
